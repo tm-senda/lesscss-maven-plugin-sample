@@ -23,7 +23,7 @@ body {
 }
 
 pre {
-	.rounded-corners;
+	.rounded-corners();
 	background-color: @precolor;
 	border-style: dotted;
 	border-width: medium;
